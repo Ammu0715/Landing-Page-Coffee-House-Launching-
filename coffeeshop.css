@@ -1,0 +1,297 @@
+body{
+   background-image:url(C1.jpg);
+   background-position: center;
+   height: 4000px;
+   width: 1250px;
+   padding-right: 50px;
+}
+.about{
+    background-color: burlywood;
+    margin-left: 35px;
+    height: 800px;
+    width:1400px;
+    font-size: large;
+    margin-top: 50px;
+}
+#A1{
+    border: none;
+    background-color: burlywood; 
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    font-display: brown;
+}
+#A1:hover{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+}
+#A2{
+    border: none;
+    background-color: burlywood; 
+    font-size: x-large;
+    font-style: oblique;
+    margin-left: 650px;
+}
+#A2:hover{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+}
+#A3{
+    border: none;
+    background-color: burlywood; 
+    font-size: x-large;
+    font-style: oblique;   
+}
+#A3:hover
+{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+}
+#A4{
+    border: none;
+    background-color: burlywood; 
+    font-size: x-large;
+    font-style: oblique;   
+}
+#A4:hover{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+    padding-left: 10px;
+}
+#A5{
+    border: none;
+    background-color: burlywood; 
+    font-size: x-large;
+    font-style: oblique; 
+}
+#A5:hover{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+}
+#A6{
+    border: none;
+    background-color: burlywood; 
+    font-size: x-large;
+    font-style: oblique;  
+}
+#A6:hover{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+}
+.Word{
+    background-color: rgb(222, 181, 120);
+    height: 180px;
+    width: 900px;
+    padding-top: 2px;
+    margin-top: 1px;
+    color: brown;
+    padding-left: 500px;
+}   
+.img{
+    padding-top: 20px;
+} 
+#shop{
+padding-left: 50px;
+padding-right: 50px;
+border: none;
+background-color: rgb(222, 149, 54); 
+font-size: x-large;
+font-style: oblique;  
+}
+#shop:hover{
+    background-color: rgb(227, 116, 65);
+    color: bisque;
+}
+.Us{
+    display: flex;
+    margin-top: 20px;
+    background-color: burlywood;
+    margin-left: 35px;
+    height: 800px;
+    width:1400px;
+    font-size: large;
+}
+.change{
+    font-size: xx-large;
+    font-style: unset;
+    font-weight: 100px;
+    text-decoration: underline;
+    padding-top: 20px;  
+}
+.change:hover
+{
+    background-color: rgb(227, 116, 65);
+    color: bisque;  
+}
+.origin{
+    background-color: rgb(222, 181, 120);
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: x-large;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.pic{
+    padding-top: 230px;
+    padding-left: 50px;
+}
+#more{
+    border: none;
+    background-color: rgb(235, 162, 67); 
+    font-size: x-large;
+margin-top: 600px;
+}
+#more:hover{
+    background-color: rgb(227, 116, 65);
+    color: rgb(12, 9, 60); 
+}
+.Menu{
+    margin-top: 20px;
+    background-image: url(mini.jpg); 
+    margin-left: 35px;
+    height: 700px;
+    width:1340px;
+    font-size: large;
+}
+.Menu{
+    padding-inline: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+.men{
+    padding-bottom: 20px;
+    font-size: xx-large;
+    font-style: oblique;
+    font-size: 50px;
+    font-variant: small-caps;
+    color: rgba(11, 1, 1, 0.904);    
+}
+.men:hover{
+    background-color: rgb(102, 42, 14);
+    color: rgb(184, 180, 239); 
+}
+#img1{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;   
+}
+#img2{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#img3{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+   padding-bottom: 20px;
+}
+#img1:hover{
+    background-color: rgb(227, 116, 65);
+    color: rgb(12, 9, 60); 
+}
+#img2:hover{
+    background-color: rgb(227, 116, 65);
+    color: rgb(12, 9, 60); 
+}
+#img3:hover{
+    background-color: rgb(227, 116, 65);
+    color: rgb(12, 9, 60); 
+}
+.Gallery{
+    margin-top: 50px;
+    background-image: url(back3.jpg); 
+    margin-left: -30px;
+    height: 700px;
+    width:1400px;
+    font-size: xx-large;
+}
+#Gal{
+    border: none;
+    background-color: burlywood; 
+    font-size: xx-large;
+    font-style: oblique;  
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+#img5{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-inline-start: 20px;
+    margin-inline-end: 10px;
+}
+#mov{
+    background-color: black;
+}
+#enu{
+    background-color: rgb(185, 87, 45);
+}
+#Gal:hover{
+    background-color: rgb(148, 230, 148);
+    color: rgb(94, 90, 149);
+}
+.Contact{
+    background-color: burlywood;
+    margin-left:-30px;
+    height: 800px;
+    width:1400px;
+    font-size: large;
+    margin-top: 50px;
+}
+#cont{
+    padding-top: 130px;
+    padding-left: 580px;
+}
+#cont21:hover{
+    background-color: rgb(148, 230, 148);
+    color: rgb(94, 90, 149);
+}
+#cont21{
+    font-size: 30px;
+    color: rgba(236, 83, 83, 0.904);
+    border-radius: 20px;
+}
+#cont1{
+    padding-left: 540px;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+#cont2{
+    padding-left: 480px;
+    font-size: x-large;
+    padding-top: 20px;
+}
+#send{
+    font-size: x-large;
+    border-radius: 20px;
+    color: blue;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#send:hover{
+    background-color: rgb(148, 230, 148);
+    color: rgb(227, 35, 35);
+}
+#cont3{
+    font-size: x-large;
+    padding-top: 40px;
+}
+#cont4{
+    font-size: x-large;
+    padding-left: 1150px;
+    margin-top: -20px;
+}
+
+
+
+
+
+
